@@ -1,4 +1,4 @@
-# CH-1. 레일즈 시작하기
+# CH-1. **MOSTLY STATIC PAGES**
 
 
 
